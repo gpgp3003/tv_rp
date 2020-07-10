@@ -12,3 +12,112 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Variedades", RedeTV!
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="Jornalismo",BandNews 
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", TV Cultura
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History Channel
+http://heinentv.ddns.net:25461/mil/mil/16572?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 2
+http://heinentv.ddns.net:25461/mil/mil/16571?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Home Health
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Channel
+http://heinentv.ddns.net:25461/mil/mil/5307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Channel
+http://heinentv.ddns.net:25461/mil/mil/16561?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 1
+http://heinentv.ddns.net:25461/mil/mil/5177?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",TNT Sports
+http://heinentv.ddns.net:25461/mil/mil/5185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1
+http://heinentv.ddns.net:25461/mil/mil/5174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3
+http://heinentv.ddns.net:25461/mil/mil/5176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
+http://heinentv.ddns.net:25461/mil/mil/5242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax
+http://heinentv.ddns.net:25461/mil/mil/5412?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Comedy Central
+http://heinentv.ddns.net:25461/mil/mil/5243?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",DIRECTV SPORTS 2
+http://heinentv.ddns.net:25461/mil/mil/27656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX DEPORTES
+http://heinentv.ddns.net:25461/mil/mil/10467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX
+http://heinentv.ddns.net:25461/mil/mil/5247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Permium 1
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Action
+http://heinentv.ddns.net:25461/mil/mil/5378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Cinema
+http://heinentv.ddns.net:25461/mil/mil/5394?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Movies
+http://heinentv.ddns.net:25461/mil/mil/5392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
+http://heinentv.ddns.net:25461/mil/mil/5373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family
+http://heinentv.ddns.net:25461/mil/mil/5375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus
+http://heinentv.ddns.net:25461/mil/mil/5377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max Prime
+http://heinentv.ddns.net:25461/mil/mil/5407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NBC Universo
+http://heinentv.ddns.net:25461/mil/mil/5240?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nat Geo Mundo
+http://heinentv.ddns.net:25461/mil/mil/16573?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Space
+http://heinentv.ddns.net:25461/mil/mil/5403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Studio Universal
+http://heinentv.ddns.net:25461/mil/mil/5414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Local",TCM HD
+https://live.tcm10.com.br/tcm10.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT
+http://heinentv.ddns.net:25461/mil/mil/5400?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT BR
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2432?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UFC
+http://heinentv.ddns.net:25461/mil/mil/5180?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Bros
+http://heinentv.ddns.net:25461/mil/mil/5253?checkedby:iptvcat.com
