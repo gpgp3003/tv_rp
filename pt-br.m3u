@@ -121,3 +121,7 @@ http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2432?checkedby:iptvcat.com
 http://heinentv.ddns.net:25461/mil/mil/5180?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Bros
 http://heinentv.ddns.net:25461/mil/mil/5253?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",GLOBO NEWS HD
+http://brasiltv.pro:8080/live/170220/170220/5391.m3u8?checkedby:iptvcat.com
