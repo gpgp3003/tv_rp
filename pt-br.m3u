@@ -1,127 +1,223 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Religioso",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Variedades", RedeTV!
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo",CNN BRASIL
+#EXTINF:-1,CNN BRASIL - TEMPORÁRIO
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="Jornalismo",BandNews 
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", TV Cultura
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais
+#EXTINF:-1,Agro Mais
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
+#EXTINF:-1,AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-
-
-
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History Channel
-http://heinentv.ddns.net:25461/mil/mil/16572?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 2
-http://heinentv.ddns.net:25461/mil/mil/16571?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Home Health
-http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2512?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Channel
-http://heinentv.ddns.net:25461/mil/mil/5307?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery Channel
-http://heinentv.ddns.net:25461/mil/mil/16561?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Plus
+#EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 1
-http://heinentv.ddns.net:25461/mil/mil/5177?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",TNT Sports
-http://heinentv.ddns.net:25461/mil/mil/5185?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1
-http://heinentv.ddns.net:25461/mil/mil/5174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3
-http://heinentv.ddns.net:25461/mil/mil/5176?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://heinentv.ddns.net:25461/mil/mil/5242?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cine+
+
+#EXTINF:-1 ,A&E
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51942
+#EXTINF:-1 ,AXN
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51943
+#EXTINF:-1 ,BAND
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51944
+#EXTINF:-1 ,BAND NEWS
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51945
+#EXTINF:-1 ,DISCOVERY
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51946
+#EXTINF:-1 ,FOX
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51947
+#EXTINF:-1 ,HBO
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51948
+#EXTINF:-1 ,HBO 2
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51949
+#EXTINF:-1 ,SG: Eleven Sport HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51951
+#EXTINF:-1 ,Boomerang
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51952
+#EXTINF:-1 ,Canal Sony
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51953
+#EXTINF:-1 ,Combate
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51954
+#EXTINF:-1 ,Discovery Civilization
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51955
+#EXTINF:-1 ,E!
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51957
+#EXTINF:-1 ,ESPN
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51958
+#EXTINF:-1 ,Fox Life
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51959
+#EXTINF:-1 ,Globo News
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51960
+
+#EXTINF:-1 ,GNT
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51963
+#EXTINF:-1 ,H2
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51964
+#EXTINF:-1 ,HBO Family
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51965
+#EXTINF:-1 ,HBO Plus
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51966
+#EXTINF:-1 ,HBO Signature
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51967
+#EXTINF:-1 ,Investiga
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51968
+#EXTINF:-1 ,Max HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51969
+#EXTINF:-1 ,Max Prime
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51970
+#EXTINF:-1 ,Max Up
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51971
+#EXTINF:-1 ,Multishow
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51972
+#EXTINF:-1 ,National Geographic
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51973
+#EXTINF:-1 ,Nick
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51974
+#EXTINF:-1 ,Premiere 2
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51975
+#EXTINF:-1 ,Premiere 4
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51976
+#EXTINF:-1 ,Premiere Clubes
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51977
+#EXTINF:-1 ,Sport TV
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51978
+
+#EXTINF:-1 ,TC Action
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51981
+#EXTINF:-1 ,TC Premium
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51982
+#EXTINF:-1 ,History Channel
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51983
+#EXTINF:-1 ,TNT Series
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51984
+#EXTINF:-1 ,Viva
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51985
+#EXTINF:-1 ,Globo SP
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51986
+#EXTINF:-1 ,CANAL ESCOLA
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51987
+#EXTINF:-1 ,Fish TV
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51988
+#EXTINF:-1 ,FX
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51989
+#EXTINF:-1 ,Mais Globosat sd
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51990
+#EXTINF:-1 ,Record News
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51991
+#EXTINF:-1 ,Studio Universal
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51992
+#EXTINF:-1 ,Cartoon Network
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51993
+#EXTINF:-1 ,E! MAXX 2
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51994
+#EXTINF:-1 ,MegaPix
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51995
+#EXTINF:-1 ,Nick Jr
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51996
+#EXTINF:-1 ,Space Brasil
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51997
+#EXTINF:-1 ,Syfy
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51998
+#EXTINF:-1 ,TV Diario
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51999
+#EXTINF:-1 ,TVI
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52000
+#EXTINF:-1 ,Woohoo Brasil
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52001
+#EXTINF:-1 ,Combate HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52002
+#EXTINF:-1 ,Comedy Central
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52003
+#EXTINF:-1 ,Discovery Channel HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52004
+#EXTINF:-1 ,Discovery Kids
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52005
+#EXTINF:-1 ,Discovery Turbo HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52006
+#EXTINF:-1 ,Discovery World HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52007
+#EXTINF:-1 ,Disney Channel
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52008
+#EXTINF:-1 ,Disney Junior
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52009
+#EXTINF:-1 ,Disney XD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52010
+#EXTINF:-1 ,ESPN  HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52011
+#EXTINF:-1 ,FOX HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52012
+#EXTINF:-1 ,FOX LIFE FHD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52013
+#EXTINF:-1 ,FOX Premium 1 HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52014
+#EXTINF:-1 ,Fox Sport HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52015
+#EXTINF:-1 ,FX HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52016
+#EXTINF:-1 ,GNT HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52017
+#EXTINF:-1 ,H2 HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52018
+#EXTINF:-1 ,HBO 2 HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52019
+#EXTINF:-1 ,HBO Plus e
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52020
+#EXTINF:-1 ,HBO Plus HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52021
+#EXTINF:-1 ,HBO Signature HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52022
+#EXTINF:-1 ,History Channel HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52023
+#EXTINF:-1 ,ID - Investiga
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52024
+#EXTINF:-1 ,Megapix HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52025
+#EXTINF:-1 ,Nickelodeon
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52026
+#EXTINF:-1 ,OFF HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52027
+#EXTINF:-1 ,OfFHD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52028
+#EXTINF:-1 ,Paramount HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52029
+#EXTINF:-1 ,Premiere 2 HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52030
+#EXTINF:-1 ,Premiere 6
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52032
+#EXTINF:-1 ,Premiere Clubes HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52033
+#EXTINF:-1 ,Record HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52034
+#EXTINF:-1 ,Record sp
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52035
+#EXTINF:-1 ,SBT HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52037
+#EXTINF:-1 ,Space HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52038
+#EXTINF:-1 ,Sport TV 2 HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52039
+#EXTINF:-1 ,Sport TV HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52040
+#EXTINF:-1 ,Telecine Action HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52041
+#EXTINF:-1 ,Telecine Fun HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52042
+#EXTINF:-1 ,Telecine Pipoca HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52043
+#EXTINF:-1 ,Telecine Premium HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52044
+#EXTINF:-1 ,TNT HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52045
+#EXTINF:-1 ,Universal Channels HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52046
+#EXTINF:-1 ,Warner Channel
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52047
+#EXTINF:-1 ,Warner Channel HD
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52048
+#EXTINF:-1 ,Woohoo
+http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52049
+
+
+#EXTINF:-1,Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax
-http://heinentv.ddns.net:25461/mil/mil/5412?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Comedy Central
-http://heinentv.ddns.net:25461/mil/mil/5243?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",DIRECTV SPORTS 2
-http://heinentv.ddns.net:25461/mil/mil/27656?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX DEPORTES
-http://heinentv.ddns.net:25461/mil/mil/10467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX
-http://heinentv.ddns.net:25461/mil/mil/5247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Permium 1
-http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2492?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Action
-http://heinentv.ddns.net:25461/mil/mil/5378?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Cinema
-http://heinentv.ddns.net:25461/mil/mil/5394?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Premium Movies
-http://heinentv.ddns.net:25461/mil/mil/5392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
-http://heinentv.ddns.net:25461/mil/mil/5373?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family
-http://heinentv.ddns.net:25461/mil/mil/5375?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus
-http://heinentv.ddns.net:25461/mil/mil/5377?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max Prime
-http://heinentv.ddns.net:25461/mil/mil/5407?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NBC Universo
-http://heinentv.ddns.net:25461/mil/mil/5240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nat Geo Mundo
-http://heinentv.ddns.net:25461/mil/mil/16573?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Space
-http://heinentv.ddns.net:25461/mil/mil/5403?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Studio Universal
-http://heinentv.ddns.net:25461/mil/mil/5414?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Local",TCM HD
+
+#EXTINF:-1,TCM HD
 https://live.tcm10.com.br/tcm10.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT
-http://heinentv.ddns.net:25461/mil/mil/5400?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT BR
-http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/2432?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UFC
-http://heinentv.ddns.net:25461/mil/mil/5180?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Bros
-http://heinentv.ddns.net:25461/mil/mil/5253?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",GLOBO NEWS HD
-http://brasiltv.pro:8080/live/170220/170220/5391.m3u8?checkedby:iptvcat.com
