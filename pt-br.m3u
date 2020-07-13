@@ -1,223 +1,115 @@
 #EXTM3U
 
-#EXTINF:-1,CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
+#EXTINF:-1,CNN BRASIL 
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1,Agro Mais
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-
 #EXTINF:-1,AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
 #EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-
-#EXTINF:-1 ,A&E
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51942
-#EXTINF:-1 ,AXN
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51943
-#EXTINF:-1 ,BAND
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51944
-#EXTINF:-1 ,BAND NEWS
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51945
-#EXTINF:-1 ,DISCOVERY
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51946
-#EXTINF:-1 ,FOX
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51947
-#EXTINF:-1 ,HBO
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51948
-#EXTINF:-1 ,HBO 2
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51949
-#EXTINF:-1 ,SG: Eleven Sport HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51951
-#EXTINF:-1 ,Boomerang
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51952
-#EXTINF:-1 ,Canal Sony
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51953
-#EXTINF:-1 ,Combate
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51954
-#EXTINF:-1 ,Discovery Civilization
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51955
-#EXTINF:-1 ,E!
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51957
-#EXTINF:-1 ,ESPN
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51958
-#EXTINF:-1 ,Fox Life
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51959
-#EXTINF:-1 ,Globo News
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51960
-
-#EXTINF:-1 ,GNT
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51963
-#EXTINF:-1 ,H2
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51964
-#EXTINF:-1 ,HBO Family
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51965
-#EXTINF:-1 ,HBO Plus
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51966
-#EXTINF:-1 ,HBO Signature
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51967
-#EXTINF:-1 ,Investiga
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51968
-#EXTINF:-1 ,Max HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51969
-#EXTINF:-1 ,Max Prime
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51970
-#EXTINF:-1 ,Max Up
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51971
-#EXTINF:-1 ,Multishow
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51972
-#EXTINF:-1 ,National Geographic
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51973
-#EXTINF:-1 ,Nick
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51974
-#EXTINF:-1 ,Premiere 2
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51975
-#EXTINF:-1 ,Premiere 4
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51976
-#EXTINF:-1 ,Premiere Clubes
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51977
-#EXTINF:-1 ,Sport TV
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51978
-
-#EXTINF:-1 ,TC Action
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51981
-#EXTINF:-1 ,TC Premium
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51982
-#EXTINF:-1 ,History Channel
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51983
-#EXTINF:-1 ,TNT Series
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51984
-#EXTINF:-1 ,Viva
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51985
-#EXTINF:-1 ,Globo SP
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51986
-#EXTINF:-1 ,CANAL ESCOLA
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51987
-#EXTINF:-1 ,Fish TV
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51988
-#EXTINF:-1 ,FX
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51989
-#EXTINF:-1 ,Mais Globosat sd
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51990
-#EXTINF:-1 ,Record News
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51991
-#EXTINF:-1 ,Studio Universal
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51992
-#EXTINF:-1 ,Cartoon Network
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51993
-#EXTINF:-1 ,E! MAXX 2
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51994
-#EXTINF:-1 ,MegaPix
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51995
-#EXTINF:-1 ,Nick Jr
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51996
-#EXTINF:-1 ,Space Brasil
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51997
-#EXTINF:-1 ,Syfy
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51998
-#EXTINF:-1 ,TV Diario
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/51999
-#EXTINF:-1 ,TVI
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52000
-#EXTINF:-1 ,Woohoo Brasil
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52001
-#EXTINF:-1 ,Combate HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52002
-#EXTINF:-1 ,Comedy Central
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52003
-#EXTINF:-1 ,Discovery Channel HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52004
-#EXTINF:-1 ,Discovery Kids
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52005
-#EXTINF:-1 ,Discovery Turbo HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52006
-#EXTINF:-1 ,Discovery World HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52007
-#EXTINF:-1 ,Disney Channel
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52008
-#EXTINF:-1 ,Disney Junior
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52009
-#EXTINF:-1 ,Disney XD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52010
-#EXTINF:-1 ,ESPN  HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52011
-#EXTINF:-1 ,FOX HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52012
-#EXTINF:-1 ,FOX LIFE FHD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52013
-#EXTINF:-1 ,FOX Premium 1 HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52014
-#EXTINF:-1 ,Fox Sport HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52015
-#EXTINF:-1 ,FX HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52016
-#EXTINF:-1 ,GNT HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52017
-#EXTINF:-1 ,H2 HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52018
-#EXTINF:-1 ,HBO 2 HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52019
-#EXTINF:-1 ,HBO Plus e
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52020
-#EXTINF:-1 ,HBO Plus HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52021
-#EXTINF:-1 ,HBO Signature HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52022
-#EXTINF:-1 ,History Channel HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52023
-#EXTINF:-1 ,ID - Investiga
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52024
-#EXTINF:-1 ,Megapix HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52025
-#EXTINF:-1 ,Nickelodeon
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52026
-#EXTINF:-1 ,OFF HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52027
-#EXTINF:-1 ,OfFHD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52028
-#EXTINF:-1 ,Paramount HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52029
-#EXTINF:-1 ,Premiere 2 HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52030
-#EXTINF:-1 ,Premiere 6
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52032
-#EXTINF:-1 ,Premiere Clubes HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52033
-#EXTINF:-1 ,Record HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52034
-#EXTINF:-1 ,Record sp
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52035
-#EXTINF:-1 ,SBT HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52037
-#EXTINF:-1 ,Space HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52038
-#EXTINF:-1 ,Sport TV 2 HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52039
-#EXTINF:-1 ,Sport TV HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52040
-#EXTINF:-1 ,Telecine Action HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52041
-#EXTINF:-1 ,Telecine Fun HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52042
-#EXTINF:-1 ,Telecine Pipoca HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52043
-#EXTINF:-1 ,Telecine Premium HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52044
-#EXTINF:-1 ,TNT HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52045
-#EXTINF:-1 ,Universal Channels HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52046
-#EXTINF:-1 ,Warner Channel
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52047
-#EXTINF:-1 ,Warner Channel HD
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52048
-#EXTINF:-1 ,Woohoo
-http://plus-masters-premiunvip.live:8000/IPTV945/M0Uz7EuPZC/52049
-
-
 #EXTINF:-1,Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-
 #EXTINF:-1,TCM HD
 https://live.tcm10.com.br/tcm10.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,All Sports
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9298
+#EXTINF:-1,AXN HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9309
+#EXTINF:-1,BAND HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9310
+#EXTINF:-1,BAND NEWS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9311
+#EXTINF:-1,BAND SPORTS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9312
+#EXTINF:-1,BOOMERANG HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9313
+#EXTINF:-1,CANAL BRASIL HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9314
+#EXTINF:-1,CARTOON NETWORK HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9315
+#EXTINF:-1,CURTA! HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9316
+#EXTINF:-1,DISCOVERY CH. HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9317
+#EXTINF:-1,DISCOVERY H&H HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9318
+#EXTINF:-1,DISCOVERY ID HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9319
+#EXTINF:-1,DISCOVERY KIDS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9320
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9321
+#EXTINF:-1,DISCOVERY TURBO HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9322
+#EXTINF:-1,DISNEY CHANNEL HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9323
+#EXTINF:-1,DISNEY JUNIOR HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9324
+#EXTINF:-1,DISNEY XD HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9325
+#EXTINF:-1,E! HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9326
+#EXTINF:-1,ESPN 2 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9327
+#EXTINF:-1,ESPN BRASIL HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9328
+#EXTINF:-1,ESPN EXTRA HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9329
+#EXTINF:-1,FISH TV HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9330
+#EXTINF:-1,FOX HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9331
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9332
+#EXTINF:-1,FOX SPORTS 2 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9333
+#EXTINF:-1,FOX SPORTS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9334
+#EXTINF:-1,FX HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9335
+#EXTINF:-1,GLOBO NEWS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9336
+#EXTINF:-1,GLOBO RIO HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9337
+#EXTINF:-1,HBO 2 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9341
+#EXTINF:-1,HBO FAMILY HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9342
+#EXTINF:-1,HBO HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9343
+#EXTINF:-1,HBO PLUS HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9344
+#EXTINF:-1,HBO SIGNATURE HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9345
+#EXTINF:-1,HISTORY 2 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9346
+#EXTINF:-1,HISTORY HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9347
+#EXTINF:-1,MAX HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9348
+#EXTINF:-1,MULTISHOW HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9349
+#EXTINF:-1,PREMIERE 3 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9350
+#EXTINF:-1,PREMIERE 4 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9351
+#EXTINF:-1,PREMIERE 5 HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9352
+#EXTINF:-1,PREMIERE CLUBE HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9353
+#EXTINF:-1,RECORD HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9354
+#EXTINF:-1,REDE BRASIL HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9355
+#EXTINF:-1,TELECINE ACTION HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9356
+#EXTINF:-1,TELECINE PIPOCA HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9357
+#EXTINF:-1,TLC HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9358
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9359
+#EXTINF:-1,WARNER HD
+http://redcoliptv.com:8090/Nicolas123/Nicolas123/9360
