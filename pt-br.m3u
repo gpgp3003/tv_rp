@@ -3,113 +3,148 @@
 
 #EXTINF:-1,CNN BRASIL 
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1,Agro Mais
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-#EXTINF:-1,AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:-1,Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:-1,TCM HD
-https://live.tcm10.com.br/tcm10.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,All Sports
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9298
-#EXTINF:-1,AXN HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9309
-#EXTINF:-1,BAND HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9310
-#EXTINF:-1,BAND NEWS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9311
-#EXTINF:-1,BAND SPORTS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9312
-#EXTINF:-1,BOOMERANG HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9313
-#EXTINF:-1,CANAL BRASIL HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9314
-#EXTINF:-1,CARTOON NETWORK HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9315
-#EXTINF:-1,CURTA! HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9316
-#EXTINF:-1,DISCOVERY CH. HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9317
-#EXTINF:-1,DISCOVERY H&H HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9318
-#EXTINF:-1,DISCOVERY ID HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9319
-#EXTINF:-1,DISCOVERY KIDS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9320
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9321
-#EXTINF:-1,DISCOVERY TURBO HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9322
-#EXTINF:-1,DISNEY CHANNEL HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9323
-#EXTINF:-1,DISNEY JUNIOR HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9324
-#EXTINF:-1,DISNEY XD HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9325
-#EXTINF:-1,E! HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9326
-#EXTINF:-1,ESPN 2 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9327
-#EXTINF:-1,ESPN BRASIL HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9328
-#EXTINF:-1,ESPN EXTRA HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9329
-#EXTINF:-1,FISH TV HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9330
-#EXTINF:-1,FOX HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9331
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9332
-#EXTINF:-1,FOX SPORTS 2 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9333
-#EXTINF:-1,FOX SPORTS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9334
-#EXTINF:-1,FX HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9335
-#EXTINF:-1,GLOBO NEWS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9336
-#EXTINF:-1,GLOBO RIO HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9337
-#EXTINF:-1,HBO 2 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9341
-#EXTINF:-1,HBO FAMILY HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9342
-#EXTINF:-1,HBO HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9343
-#EXTINF:-1,HBO PLUS HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9344
-#EXTINF:-1,HBO SIGNATURE HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9345
-#EXTINF:-1,HISTORY 2 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9346
-#EXTINF:-1,HISTORY HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9347
-#EXTINF:-1,MAX HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9348
-#EXTINF:-1,MULTISHOW HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9349
-#EXTINF:-1,PREMIERE 3 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9350
-#EXTINF:-1,PREMIERE 4 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9351
-#EXTINF:-1,PREMIERE 5 HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9352
-#EXTINF:-1,PREMIERE CLUBE HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9353
-#EXTINF:-1,RECORD HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9354
-#EXTINF:-1,REDE BRASIL HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9355
-#EXTINF:-1,TELECINE ACTION HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9356
-#EXTINF:-1,TELECINE PIPOCA HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9357
-#EXTINF:-1,TLC HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9358
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9359
-#EXTINF:-1,WARNER HD
-http://redcoliptv.com:8090/Nicolas123/Nicolas123/9360
+
+#EXTINF:-1,A&E
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41359
+#EXTINF:-1,AMC
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41358
+#EXTINF:-1,Animal Planet
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41357
+#EXTINF:-1,AXN
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41355
+#EXTINF:-1,BAND NEWS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41352
+#EXTINF:-1,BAND SPORTS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41351
+#EXTINF:-1,BIS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41350
+#EXTINF:-1,BOOMERANG
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41349
+#EXTINF:-1,COMBATE
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41344
+#EXTINF:-1,COMEDY CENTRAL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41343
+#EXTINF:-1,CULTURA
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41342
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41339
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41338
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41337
+#EXTINF:-1,DISCOVERY KIDS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41336
+#EXTINF:-1,DISCOVERY SCIENCE
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41335
+#EXTINF:-1,DISCOVERY THEATER
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41334
+#EXTINF:-1,DISCOVERY TLC
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41333
+#EXTINF:-1,DISCOVERY TURBO
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41332
+#EXTINF:-1,DISCOVERY WORLD
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41331
+#EXTINF:-1,DISNEY CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41330
+#EXTINF:-1,DISNEY JNR
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41329
+#EXTINF:-1,ESPN
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41326
+#EXTINF:-1,ESPN2
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41324
+#EXTINF:-1,FOX
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41321
+#EXTINF:-1,FOX LIFE
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41320
+#EXTINF:-1,FOX PREMIUM 1
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41319
+#EXTINF:-1,FOX PREMIUM 2
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41318
+#EXTINF:-1,FOX SPORTS 2
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41316
+#EXTINF:-1,FOX SPORTS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41317
+#EXTINF:-1,FX
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41314
+#EXTINF:-1,GLOBO NEWS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41304
+#EXTINF:-1,GLOBOSAT
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41291
+#EXTINF:-1,GNT
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41289
+#EXTINF:-1,HBO
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41287
+#EXTINF:-1,HBO 2
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41286
+#EXTINF:-1,HBO FAMILY
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41285
+#EXTINF:-1,HBO PLUS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41284
+#EXTINF:-1,HBO PLUS*E
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41283
+#EXTINF:-1,HBO SIGNATURE
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41282
+#EXTINF:-1,HISTORY CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41281
+#EXTINF:-1,H2
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41288
+#EXTINF:-1,INVESTIGA
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41280
+#EXTINF:-1,LIFETIME
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41279
+#EXTINF:-1,MAX PRIME
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41278
+#EXTINF:-1,MAX PRIME*E
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41277
+#EXTINF:-1,MAX UP
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41276
+#EXTINF:-1,MEGAPIX
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41275
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41269
+#EXTINF:-1,NAT GEO KIDS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41271
+#EXTINF:-1,NATGEO WILD
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41270
+#EXTINF:-1,NICKELODEON
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41267
+#EXTINF:-1,NICK JR
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41268
+#EXTINF:-1,OFF
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41266
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41265
+#EXTINF:-1,SONY
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41241
+#EXTINF:-1,SPACE
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41240
+#EXTINF:-1,SPORTV
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41239
+#EXTINF:-1,STUDIO UNIVERSAL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41236
+#EXTINF:-1,SYFY
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41235
+#EXTINF:-1,TBS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41234
+#EXTINF:-1,TCM
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41233
+#EXTINF:-1,TELECINE CULT
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41231
+#EXTINF:-1,TELECINE FUN
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41230
+#EXTINF:-1,TELECINE PIPOCA
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41229
+#EXTINF:-1,TELECINE PREMIUM
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41228
+#EXTINF:-1,TELECINE TOUCH
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41227
+#EXTINF:-1,TERRA VIVA
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41226
+#EXTINF:-1,TNT
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41225
+#EXTINF:-1,TNT S
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41224
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41218
+#EXTINF:-1,WARNER CHANNEL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41215
