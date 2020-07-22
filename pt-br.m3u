@@ -4,6 +4,11 @@
 #EXTINF:-1,CNN BRASIL 
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
+#EXTINF:-1,BAND NEWS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41352
+#EXTINF:-1,GLOBO NEWS
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41304
+
 #EXTINF:-1,A&E
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41359
 #EXTINF:-1,AMC
@@ -12,8 +17,7 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41358
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41357
 #EXTINF:-1,AXN
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41355
-#EXTINF:-1,BAND NEWS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41352
+
 #EXTINF:-1,BAND SPORTS
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41351
 #EXTINF:-1,BIS
@@ -24,8 +28,7 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41349
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41344
 #EXTINF:-1,COMEDY CENTRAL
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41343
-#EXTINF:-1,CULTURA
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41342
+
 #EXTINF:-1,DISCOVERY CHANNEL
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41339
 #EXTINF:-1,DISCOVERY CIVILIZATION
@@ -66,8 +69,7 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41316
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41317
 #EXTINF:-1,FX
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41314
-#EXTINF:-1,GLOBO NEWS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41304
+
 #EXTINF:-1,GLOBOSAT
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41291
 #EXTINF:-1,GNT
@@ -94,7 +96,7 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41280
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41279
 #EXTINF:-1,MAX PRIME
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41278
-#EXTINF:-1,MAX PRIME*E
+#EXTINF:-1,MAX PRIME 2
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41277
 #EXTINF:-1,MAX UP
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41276
@@ -128,6 +130,7 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41235
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41234
 #EXTINF:-1,TCM
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41233
+
 #EXTINF:-1,TELECINE CULT
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41231
 #EXTINF:-1,TELECINE FUN
@@ -138,12 +141,12 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/41229
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41228
 #EXTINF:-1,TELECINE TOUCH
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41227
-#EXTINF:-1,TERRA VIVA
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41226
+
 #EXTINF:-1,TNT
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41225
 #EXTINF:-1,TNT S
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41224
+
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://ingrid.ltd:25461/Gilberto1/Gilberto/41218
 #EXTINF:-1,WARNER CHANNEL
