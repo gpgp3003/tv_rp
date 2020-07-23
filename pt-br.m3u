@@ -3,151 +3,55 @@
 
 #EXTINF:-1,CNN BRASIL 
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-#EXTINF:-1,BAND NEWS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41352
-#EXTINF:-1,GLOBO NEWS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41304
-
-#EXTINF:-1,A&E
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41359
-#EXTINF:-1,AMC
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41358
-#EXTINF:-1,Animal Planet
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41357
-#EXTINF:-1,AXN
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41355
-
-#EXTINF:-1,BAND SPORTS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41351
-#EXTINF:-1,BIS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41350
-#EXTINF:-1,BOOMERANG
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41349
-#EXTINF:-1,COMBATE
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41344
-#EXTINF:-1,COMEDY CENTRAL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41343
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41339
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41338
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41337
-#EXTINF:-1,DISCOVERY KIDS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41336
-#EXTINF:-1,DISCOVERY SCIENCE
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41335
-#EXTINF:-1,DISCOVERY THEATER
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41334
-#EXTINF:-1,DISCOVERY TLC
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41333
-#EXTINF:-1,DISCOVERY TURBO
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41332
-#EXTINF:-1,DISCOVERY WORLD
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41331
-#EXTINF:-1,DISNEY CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41330
-#EXTINF:-1,DISNEY JNR
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41329
-#EXTINF:-1,ESPN
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41326
-#EXTINF:-1,ESPN2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41324
-#EXTINF:-1,FOX
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41321
-#EXTINF:-1,FOX LIFE
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41320
-#EXTINF:-1,FOX PREMIUM 1
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41319
-#EXTINF:-1,FOX PREMIUM 2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41318
-#EXTINF:-1,FOX SPORTS 2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41316
-#EXTINF:-1,FOX SPORTS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41317
-#EXTINF:-1,FX
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41314
-
-#EXTINF:-1,GLOBOSAT
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41291
-#EXTINF:-1,GNT
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41289
-#EXTINF:-1,HBO
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41287
-#EXTINF:-1,HBO 2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41286
-#EXTINF:-1,HBO FAMILY
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41285
-#EXTINF:-1,HBO PLUS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41284
-#EXTINF:-1,HBO PLUS*E
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41283
-#EXTINF:-1,HBO SIGNATURE
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41282
-#EXTINF:-1,HISTORY CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41281
-#EXTINF:-1,H2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41288
-#EXTINF:-1,INVESTIGA
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41280
-#EXTINF:-1,LIFETIME
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41279
-#EXTINF:-1,MAX PRIME
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41278
-#EXTINF:-1,MAX PRIME 2
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41277
-#EXTINF:-1,MAX UP
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41276
-#EXTINF:-1,MEGAPIX
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41275
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41269
-#EXTINF:-1,NAT GEO KIDS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41271
-#EXTINF:-1,NATGEO WILD
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41270
-#EXTINF:-1,NICKELODEON
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41267
-#EXTINF:-1,NICK JR
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41268
-#EXTINF:-1,OFF
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41266
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41265
-#EXTINF:-1,SONY
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41241
-#EXTINF:-1,SPACE
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41240
-#EXTINF:-1,SPORTV
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41239
-#EXTINF:-1,STUDIO UNIVERSAL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41236
-#EXTINF:-1,SYFY
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41235
-#EXTINF:-1,TBS
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41234
-#EXTINF:-1,TCM
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41233
-
-#EXTINF:-1,TELECINE CULT
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41231
-#EXTINF:-1,TELECINE FUN
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41230
-#EXTINF:-1,TELECINE PIPOCA
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41229
-#EXTINF:-1,TELECINE PREMIUM
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41228
-#EXTINF:-1,TELECINE TOUCH
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41227
-
-#EXTINF:-1,TNT
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41225
-#EXTINF:-1,TNT S
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41224
-
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41218
-#EXTINF:-1,WARNER CHANNEL
-http://ingrid.ltd:25461/Gilberto1/Gilberto/41215
+#EXTINF:-1,RECORD NEWS SD
+http://vipeiptv.com:25461/walTerlei/1020304050/758085
+#EXTINF:-1,Band News SD
+http://stream-sky.cf:80/joao123/joao123/25
+#EXTINF:-1,Globo News SD
+http://stream-sky.cf:80/joao123/joao123/158
+#EXTINF:-1,HBO SD
+http://stream-sky.cf:80/joao123/joao123/170
+#EXTINF:-1,BAND SPORTS SD
+http://vipeiptv.com:25461/walTerlei/1020304050/758259
+#EXTINF:-1,History Channel SD
+http://stream-sky.cf:80/joao123/joao123/184
+#EXTINF:-1,Megapix SD
+http://stream-sky.cf:80/joao123/joao123/201
+#EXTINF:-1,TNT SD
+http://stream-sky.cf:80/joao123/joao123/291
+#EXTINF:-1,National Geographic SD
+http://stream-sky.cf:80/joao123/joao123/212
+#EXTINF:-1,Off SD
+http://stream-sky.cf:80/joao123/joao123/222
+#EXTINF:-1,Telecine Action SD
+http://stream-sky.cf:80/joao123/joao123/295
+#EXTINF:-1,Telecine Pipoca SD
+http://stream-sky.cf:80/joao123/joao123/304
+#EXTINF:-1,A&E SD
+http://stream-sky.cf:80/joao123/joao123/1
+#EXTINF:-1,Animal Planet SD
+http://stream-sky.cf:80/joao123/joao123/8
+#EXTINF:-1,Band Sports SD
+http://stream-sky.cf:80/joao123/joao123/27
+#EXTINF:-1,Cinemax SD
+http://stream-sky.cf:80/joao123/joao123/43
+#EXTINF:-1,Comedy Central SD
+http://stream-sky.cf:80/joao123/joao123/51
+#EXTINF:-1,Discovery Channel SD
+http://stream-sky.cf:80/joao123/joao123/56
+#EXTINF:-1,Discovery Science SD
+http://stream-sky.cf:80/joao123/joao123/64
+#EXTINF:-1,ESPN 2 SD
+http://stream-sky.cf:80/joao123/joao123/90
+#EXTINF:-1,ESPN Brasil SD
+http://stream-sky.cf:80/joao123/joao123/87
+#EXTINF:-1,ESPN SD
+http://stream-sky.cf:80/joao123/joao123/85
+#EXTINF:-1,Fox SD
+http://stream-sky.cf:80/joao123/joao123/106
+#EXTINF:-1,SporTV SD
+http://stream-sky.cf:80/joao123/joao123/272
+#EXTINF:-1,SporTV 2 SD
+http://stream-sky.cf:80/joao123/joao123/274
+#EXTINF:-1,SporTV 3 SD
+http://stream-sky.cf:80/joao123/joao123/277
